@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 hello git agian
+=======
+>>>>>>> parent of 9a9dda1... two file edited
